@@ -2,7 +2,7 @@ def create_an_empty_array
   []
 end
 
-  create_an_array = ["red", "yellow", "blue", "green"]
+["red", "yellow", "blue", "green"]
 
 
   add_element_to_end_of_array  = ["red", "yellow", "blue", "green"]
