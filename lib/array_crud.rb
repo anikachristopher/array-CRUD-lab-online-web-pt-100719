@@ -22,17 +22,14 @@ def remove_element_from_start_of_array = ["red", "yellow", "blue", "green"]
   remove_element_from_start_of_array.shift   
 end
 
-def retrieve_element_from_index(array, index_number)
-  retrieve_element_from_index  = ["red", "yellow", "blue", "green"]
+def retrieve_element_from_index = ["red", "yellow", "blue", "green"]
   retrieve_element_from_index[2]
 end
 
-def retrieve_first_element_from_array(array)
-  retrieve_first_element_from_array  = ["red", "yellow", "blue", "green"]
+def retrieve_first_element_from_array = ["red", "yellow", "blue", "green"]
   retrieve_first_element_from_array[0]
 end
 
-def retrieve_last_element_from_array(array)
-  retrieve_last_element_from_array = ["red", "yellow", "blue", "green"]
+def retrieve_last_element_from_array = ["red", "yellow", "blue", "green"]
   retrieve_last_element_from_array[-1]
 end
